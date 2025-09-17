@@ -12,7 +12,7 @@ k.loadSprite("chemical-bg", "graphics/chemical-bg2.png");
 k.loadSprite("platforms", "graphics/platforms2.png");
 
 // Load Sonic's sprite with animations for running and jumping
-k.loadSprite("sonic", "graphics/sonic2.png", {
+k.loadSprite("sonic", "graphics/sonic.png", {
   sliceX: 8, // Number of frames in the X-axis
   sliceY: 2, // Number of frames in the Y-axis
   anims: {
